@@ -1,0 +1,3 @@
+The command is as follows
+	python minisql.py "<sql query without semicolon in the end>"
+The metadata.txt file and the csv files which represent the data should be stored in the "files" folder which is present in the directory from where you are running the code
